@@ -15,8 +15,8 @@ let buildPath = 'build/';
  */
 
 mix.setPublicPath('./')
-.js('js/demo.js', 'js/')
-.sass('scss/demo.scss', 'css/')
+.js('src/js/demo.js', 'js/')
+.sass('src/scss/demo.scss', 'css/')
 .options({
 	processCssUrls: false,
     postCss: [
