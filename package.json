@@ -2,10 +2,10 @@
   "name": "Finish Framework Demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "dependencies": {
-    "vue": "^2.5.21",
-    "tailwindcss": "^0.7.2",
+    "tailwindcss": "^0.7.3",
+    "vue": "^2.5.21"
   },
   "devDependencies": {
     "ajv": "^6.6.1",
@@ -27,13 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/excellentingenuity/CanyonSandblasting.git"
+    "url": "git+https://github.com/Finish-Framework/demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/excellentingenuity/CanyonSandblasting/issues"
+    "url": "https://github.com/Finish-Framework/demo.git/issues"
   },
-  "homepage": "https://github.com/excellentingenuity/CanyonSandblasting#readme"
+  "homepage": "https://github.com/Finish-Framework/demo.git#readme"
 }
